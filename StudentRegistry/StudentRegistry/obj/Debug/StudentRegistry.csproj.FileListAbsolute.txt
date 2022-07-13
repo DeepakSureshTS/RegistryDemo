@@ -1,0 +1,11 @@
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.csproj.AssemblyReference.cache
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.Form1.resources
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.Properties.Resources.resources
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.csproj.GenerateResource.cache
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.csproj.CoreCompileInputs.cache
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\bin\Debug\StudentRegistry.exe.config
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\bin\Debug\StudentRegistry.exe
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\bin\Debug\StudentRegistry.pdb
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.exe
+C:\Users\RAHUL\source\repos\StudentRegistry\StudentRegistry\obj\Debug\StudentRegistry.pdb
